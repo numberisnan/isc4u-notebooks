@@ -17,3 +17,8 @@ Use this to navigete all of the assignment notebooks. Below are the links to the
 1. [Lesson](https://sum.numberisnan.co/notebooks/Topic%203%20Test/Lesson.ipynb)
 2. [Practice](https://sum.numberisnan.co/notebooks/Topic%203%20Test/Practice.ipynb)
 3. [Test](https://sum.numberisnan.co/notebooks/Topic%203%20Test/Test.ipynb)
+
+## Teacher Only Stuff
+1. [README](https://sum.numberisnan.co/edit/TEACHERREADME.md)
+2. [Free Response Answers](https://sum.numberisnan.co/notebooks/TestAnswers.ipynb)
+3. [Source files (in case the autograder doesn't work).](https://sum.numberisnan.co/tree/source) These notebooks are the version with all hidden information, such as autograder tests, in it.
